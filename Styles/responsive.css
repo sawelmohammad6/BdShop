@@ -59,4 +59,12 @@
         font-size: 18px;
         padding: 4px;
     }
+     .footer-container {
+        grid-template-columns: 1fr; /* single column */
+        text-align: center;
+    }
+
+    .footer-social a {
+        margin: 0 8px;
+    }
 }
